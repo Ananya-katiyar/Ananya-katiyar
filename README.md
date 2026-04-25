@@ -41,10 +41,10 @@ I chase problems the way cats chase laser pointers: obsessively, joyfully, and a
 ## 📦 what you'll find here
 
 ```
-🧠 ML Experiments       — Models I trained at 3am
-🎮 Side Projects        — Started as "What if???"
-📚 DSA Practice         — Yes, all of it!!
-🐾 Chaotic Personal     — No further explanation
+ML Experiments       — Models I trained at 3am
+Side Projects        — Started as "What if???"
+DSA Practice         — Yes, all of it!!
+Chaotic Personal     — No further explanation
 ```
 
 ---
