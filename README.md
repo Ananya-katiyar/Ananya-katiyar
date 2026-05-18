@@ -79,13 +79,13 @@ Chaotic Personal     — No further explanation
   <img src="https://i.pinimg.com/736x/14/20/fd/1420fdb2c1b84a55bc9a61e3050b0fa5.jpg" height="300"/>
 </p>
 
-<h1 align="center">🐾 Hey, I'm Ananya</h1>
+<h1 align="center">Hey, I'm Ananya :3 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Keyboard+Warrior;Building+at+2am;Confidence+%2B+Chaos+%2B+Curiosity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Lets+Code;Our+Imagination;And+%2B+Celebrate+%2B+Errors+too" />
 </p>
 
-<p align="center"><i>3rd year CSE-AI student · Perpetually Curious</i></p>
+<p align="center"><i>Final year CSE-AI student · Perpetually Curious</i></p>
 
 <p align="center">"Like a cat, I break things to see how they work, then put them back together, usually better"</p>
 
@@ -97,12 +97,12 @@ Chaotic Personal     — No further explanation
 
 
 <div align="center">
-I'm a CSE-AI student who builds things out of pure curiosity not deadlines. This github is basically my brain dumped into repos.  
-I chase problems the way cats chase laser pointers: obsessively, joyfully, and at 2am.
+I'm a Computer Science student who builds things out of pure curiosity not deadlines. This github is basically my brain dumped into repos.
+I chase problems the way cats chase laser pointers: obsessively and joyfully.
 
 <br>
 
-🎓  B.Tech CSE (AI Specialization) - 3rd year  
+🎓  B.Tech CSE (AI Specialization) - Final year  
 🌱  Currently exploring: LLMs, Generative AI, RAG, Agentic AI  
 🔭  Always mid-experimenting on something  
 📍  India, Uttar Pradesh, Kanpur Nagar 
@@ -153,13 +153,13 @@ I chase problems the way cats chase laser pointers: obsessively, joyfully, and a
 
 <div align="center">
 
-🧠 ML Experiments       — Models I trained at 3am
+🧠 ML Experiments       — Models I train staying up all night
 <br> 
 🎮 Side Projects        — Started as "What if???"
 <br>
-📚 DSA Practice         — Yes, all of it!!
+📚 DSA Practice         — Yes, Sometimes this too!!
 <br>
-🐾 Chaotic Personal     — No further explanation
+🐾 Messy Personal       — No further explanation
 
 </div>
 
