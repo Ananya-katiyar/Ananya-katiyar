@@ -82,7 +82,7 @@ Chaotic Personal     — No further explanation
 <h1 align="center">Hey, I'm Ananya :3 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Lets+Code;Our+Imagination;And+%2B+Celebrate+%2B+Errors+too" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Let's+Code+Our+Imagination;And+Celebrate+Errors+too" />
 </p>
 
 <p align="center"><i>Final year CSE-AI student · Perpetually Curious</i></p>
